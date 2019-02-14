@@ -1,0 +1,7 @@
+C:\Users\eozguner\source\repos\DISample\DISample\obj\Debug\DISample.csprojAssemblyReference.cache
+C:\Users\eozguner\source\repos\DISample\DISample\obj\Debug\DISample.csproj.CoreCompileInputs.cache
+C:\Users\eozguner\source\repos\DISample\DISample\bin\Debug\DISample.exe.config
+C:\Users\eozguner\source\repos\DISample\DISample\bin\Debug\DISample.exe
+C:\Users\eozguner\source\repos\DISample\DISample\bin\Debug\DISample.pdb
+C:\Users\eozguner\source\repos\DISample\DISample\obj\Debug\DISample.exe
+C:\Users\eozguner\source\repos\DISample\DISample\obj\Debug\DISample.pdb
